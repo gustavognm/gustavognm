@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo 👋
+# Hi, I'm Gustavo Melo👋
 
 I'm a Systems Analysis and Development student in Brazil, always looking for new challenges to grow as a developer. I enjoy working across different levels of the stack, from low-level languages to modern web development.
 
@@ -21,6 +21,7 @@ I'm a Systems Analysis and Development student in Brazil, always looking for new
 ## 📫 Contact Me
 
 - Email: [gustavonunesmelo@outlook.com](mailto:gustavonunesmelo@outlook.com)
+- LinkedIn: [gustavo-nunes-melo](https://www.linkedin.com/in/gustavo-nunes-melo-a27727235)
 
 ---
 ⭐️ From [gustavognm](https://github.com/gustavognm)
