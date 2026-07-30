@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo Melo👋
+# Hi, I'm Gustavo 👋
 
 I'm a Systems Analysis and Development student in Brazil, always looking for new challenges to grow as a developer. I enjoy working across different levels of the stack, from low-level languages to modern web development.
 
@@ -8,10 +8,11 @@ I'm a Systems Analysis and Development student in Brazil, always looking for new
 
 ## 🛠️ Technologies I Use
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+  </a>
+</p>
 
 ## 📚 Currently Learning
 
